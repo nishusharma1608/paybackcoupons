@@ -78,11 +78,16 @@ Test responses using postman
 Attaching screenshots for the demo
 
 #### Database
-Member table
+#### Member table
+
 ![Alt text](/PaybackCoupons/screenshots/db-members.PNG?raw=true)
 
-Coupon table
+
+#### Coupon table
+
 ![Alt text](/PaybackCoupons/screenshots/db-coupons.PNG?raw=true)
+
+
 
 #### Rest Responses
 ##### _allCoupons_
@@ -90,9 +95,13 @@ Coupon table
 ![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true)
 
 
+
+
 ##### _allMembers_
 
 ![Alt text](/PaybackCoupons/screenshots/allmembers.PNG?raw=true)
+
+
 
 
 ##### _allCoupons_
@@ -100,20 +109,28 @@ Coupon table
 ![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true)
 
 
+
+
 ##### _getMemberCoupons_
 
-![Alt text](/PaybackCoupons/screenshots/member coupons.PNG?raw=true)
+![Alt text](/PaybackCoupons/screenshots/member%20coupons.PNG?raw=true)
+
+
 
 
 ##### _getCouponMember_
 
-![Alt text](/PaybackCoupons/screenshots/coupon member.PNG?raw=true)
+![Alt text](/PaybackCoupons/screenshots/coupon%20member.PNG?raw=true)
+
+
 
 
 #### Exceptions
 ##### Member Not Found
 
 ![Alt text](/PaybackCoupons/screenshots/invalid-member.PNG?raw=true)
+
+
 
 
 
