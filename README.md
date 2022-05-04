@@ -1,4 +1,4 @@
-# paybackcoupons
+# Payback Coupons
 Payback Coupons is a Rest Service which helps in fetching members and coupons from Payback's database.
 
 ## Endpoints
@@ -79,5 +79,8 @@ Attaching screenshots for the demo
 
 #### Database
 Member table
+![Alt text](/PaybackCoupons/screenshots/allmembers.PNG?raw=true "Members Table")
 
 Coupon table
+![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true "Coupons Table")
+
