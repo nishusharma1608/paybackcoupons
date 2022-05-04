@@ -79,8 +79,52 @@ Attaching screenshots for the demo
 
 #### Database
 Member table
-![Alt text](/PaybackCoupons/screenshots/allmembers.PNG?raw=true "Members Table")
+![Alt text](/PaybackCoupons/screenshots/db-members.PNG?raw=true)
 
 Coupon table
-![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true "Coupons Table")
+![Alt text](/PaybackCoupons/screenshots/db-coupons.PNG?raw=true)
+
+#### Rest Responses
+##### _allCoupons_
+
+![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true)
+
+
+##### _allMembers_
+
+![Alt text](/PaybackCoupons/screenshots/allmembers.PNG?raw=true)
+
+
+##### _allCoupons_
+
+![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true)
+
+
+##### _getMemberCoupons_
+
+![Alt text](/PaybackCoupons/screenshots/member coupons.PNG?raw=true)
+
+
+##### _getCouponMember_
+
+![Alt text](/PaybackCoupons/screenshots/coupon member.PNG?raw=true)
+
+
+#### Exceptions
+##### Member Not Found
+
+![Alt text](/PaybackCoupons/screenshots/invalid-member.PNG?raw=true)
+
+
+
+##### Coupon Not Found
+
+![Alt text](/PaybackCoupons/screenshots/invalid-coupon.PNG?raw=true)
+
+
+##
+@author : nishusharma
+
+
+
 
