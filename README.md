@@ -1,6 +1,9 @@
 # Payback Coupons
 Payback Coupons is a Rest Service which helps in fetching members and coupons from Payback's database.
 
+Problem Statement : CodingChallenge_GMLE.pdf
+
+
 ## Endpoints
 _allCoupons_ : Fetches all coupons
 
