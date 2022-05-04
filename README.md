@@ -104,13 +104,6 @@ Attaching screenshots for the demo
 
 
 
-##### _allCoupons_
-
-![Alt text](/PaybackCoupons/screenshots/allcoupons.PNG?raw=true)
-
-
-
-
 ##### _getMemberCoupons_
 
 ![Alt text](/PaybackCoupons/screenshots/member%20coupons.PNG?raw=true)
@@ -139,8 +132,12 @@ Attaching screenshots for the demo
 ![Alt text](/PaybackCoupons/screenshots/invalid-coupon.PNG?raw=true)
 
 
+
+
+
+
 ##
-@author : nishusharma
+Author : Nishu Sharma
 
 
 
